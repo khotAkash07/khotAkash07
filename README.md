@@ -41,5 +41,4 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: _add your link_
-- 🧑‍💻 GitHub: https://github.com/khotAkash07
+- 💼 LinkedIn: https://www.linkedin.com/in/akash-khot07/
