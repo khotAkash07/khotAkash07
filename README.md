@@ -51,5 +51,5 @@
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/akash-khot07/
-- 🧑‍💻 GitHub: https://github.com/khotAkash07
+- 💼 **LinkedIn:** https://www.linkedin.com/in/akash-khot07/  
+- 🧑‍💻 **GitHub:** https://github.com/khotAkash07  
