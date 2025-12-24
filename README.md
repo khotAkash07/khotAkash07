@@ -20,10 +20,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/khotAkash07/khotAkash07/blob/output/golden-snake.svg" />
-</p>
-
+![Snake animation](https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/github-contribution-grid-snake.svg)
 
 ---
 ### 🚀 Projects
