@@ -18,6 +18,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/khotAkash07/khotAkash07/blob/output/github-contribution-grid-snake.svg)
+
+---
 ### 🚀 Projects
 - 🏥 **Hospital Management System** (Java, JSP, Servlet)
 - ⚛️ **React Practice Projects**
