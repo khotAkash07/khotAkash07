@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Khot</h1>
 <h3 align="center">Java | Spring Boot | React Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khotAkash07&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -17,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,mongodb,mysql,html,css,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,mongodb,mysql,html,css,bootstrap,git,postman" />
 </p>
 
 ---
