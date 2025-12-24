@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Neon Contribution Snake
 
 on:
   schedule:
@@ -12,15 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate neon snake
         uses: Platane/snk@v3
         with:
           github_user_name: khotAkash07
           outputs: |
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake.gif
+            dist/snake-neon.svg?palette=github-light
+            dist/snake-neon.gif
 
-      - name: Publish to output branch
+      - name: Deploy snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
