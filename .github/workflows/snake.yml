@@ -1,4 +1,4 @@
-name: Generate Clean Contribution Snake
+name: Generate Golden Snake
 
 on:
   schedule:
@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate clean snake
+      - name: Generate golden snake
         uses: Platane/snk@v3
         with:
           github_user_name: khotAkash07
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/golden-snake.svg?palette=github-dark&color_snake=#FFD700&color_dots=#0d1117,#161b22,#161b22,#161b22,#161b22
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
