@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: khotAkash07
           outputs: |
-            dist/golden-snake.svg?palette=github-dark&color_snake=#FFD700&color_dots=#0d1117,#161b22,#161b22,#161b22,#161b22
+            dist/golden-snake.svg?palette=github-dark&color_snake=%23FFD700&color_dots=%230d1117,%23161b22,%23161b22,%23161b22,%23161b22
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
