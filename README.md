@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Akash Khot</h1>
 <h3 align="center">Java | Spring Boot | React Developer</h3>
 
----
-
-### 👨‍💻 About Me
-- 💻 Full Stack Developer
-- 🌱 Learning **Spring Boot & React**
-- 🔥 Interested in **Backend + APIs**
-- 📍 India
+<p align="center">
+  <i>Building clean backend systems & modern UIs</i>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-<p>
+## 👨‍💻 About Me
+- 💻 Full Stack Developer  
+- 🌱 Currently learning **Spring Boot & React**  
+- 🔥 Interested in **Backend Development & REST APIs**  
+- 📍 India  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,mongodb,mysql,html,css,bootstrap,git,postman" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Projects
+- 🏥 **Hospital Management System**  
+  _Java, JSP, Servlet_
 
-![Snake animation](https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/github-contribution-grid-snake.svg)
-
----
-### 🚀 Projects
-- 🏥 **Hospital Management System** (Java, JSP, Servlet)
 - ⚛️ **React Practice Projects**
-- 📦 **MongoDB CRUD App**
+
+- 📦 **MongoDB CRUD Application**
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khotAkash07&show_icons=true&theme=tokyonight" />
 </p>
@@ -41,5 +43,13 @@
 
 ---
 
-### 🤝 Connect With Me
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/golden-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/akash-khot07/
+- 🧑‍💻 GitHub: https://github.com/khotAkash07
