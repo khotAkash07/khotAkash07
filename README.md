@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./header-banner-programming.png" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/main/banner-programming.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Akash Khot</h1>
 <h3 align="center">Full Stack Java | Spring Boot Developer</h3>
