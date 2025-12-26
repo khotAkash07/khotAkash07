@@ -32,10 +32,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khotAkash07&show_icons=true&theme=tokyonight" />
-</p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotAkash07&layout=compact&theme=tokyonight" />
