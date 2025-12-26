@@ -32,7 +32,11 @@
 
 ---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khotAkash07&theme=radical)
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khotAkash07&theme=radical"
+  width="1000"
+/>
+
 
 
 <p align="center">
