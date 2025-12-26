@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header-banner.png" width="100%" alt="Banner" />
+  <img src="./header-banner-programming.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Khot</h1>
