@@ -34,13 +34,16 @@
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khotAkash07&theme=radical"
-  width="1000" hight="50"
+  width="1000" height="50"
 />
 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotAkash07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotAkash07&layout=compact&theme=tokyonight" 
+    width="1000" height="50"
+    />
+  
 </p>
 
 ---
