@@ -99,7 +99,6 @@
       • Responsive dashboard with React + Tailwind<br>
       • Spring Data JPA for database access
     </td>
-
     <td valign="top">
       🛒 <b>Purchase & Selling Management System</b><br><br>
       <b>Tech:</b> React, Spring Boot, REST APIs<br>
@@ -117,7 +116,6 @@
       • MVC architecture with JSP & Servlets<br>
       • Unit testing using JUnit, Lombok integration
     </td>
-
     <td valign="top">
       🔨 <b>Online Auction System</b><br><br>
       <b>Tech:</b> Java, JSP, Servlets, MySQL<br>
