@@ -86,7 +86,6 @@
 
 ---
 
-🚀 Projects
 <h2 align="center">🚀 Projects</h2>
 
 <table align="center" border="0" cellpadding="12" cellspacing="0">
@@ -107,7 +106,6 @@
       • Optimized UI using React Hooks
     </td>
   </tr>
-
   <tr>
     <td valign="top">
       🏥 <b>Hospital Staff Management System</b><br><br>
@@ -125,7 +123,7 @@
     </td>
   </tr>
 </table>
-s
+
 
 ---
 ## 📊 GitHub Stats
@@ -137,9 +135,9 @@ s
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotAkash07&layout=compact&theme=tokyonight" 
-    />
-  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotAkash07&layout=compact&theme=tokyonight" 
+/>
 </p>
 
 ---
