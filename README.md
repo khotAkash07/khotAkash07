@@ -136,14 +136,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=khotAkash07&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khotAkash07&theme=tokyonight"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khotAkash07&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khotAkash07&theme=tokyonight"
     height="170"
   />
 </p>
+
 
 
 ---
