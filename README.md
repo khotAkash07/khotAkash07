@@ -87,47 +87,47 @@
 ---
 
 🚀 Projects
-💰 Expense Tracker System
+<h2 align="center">🚀 Projects</h2>
 
-React · Spring Boot · MySQL · Tailwind CSS · RBAC
+<table align="center" border="0" cellpadding="12" cellspacing="0">
+  <tr>
+    <td valign="top">
+      💰 <b>Expense Tracker System</b><br><br>
+      <b>Tech:</b> React, Spring Boot, MySQL, Tailwind CSS<br>
+      • Secure full-stack app with RBAC<br>
+      • REST APIs for CRUD operations<br>
+      • Responsive dashboard with React + Tailwind<br>
+      • Spring Data JPA for database access
+    </td>
 
-Secure full-stack finance app with role-based access control
+    <td valign="top">
+      🛒 <b>Purchase & Selling Management System</b><br><br>
+      <b>Tech:</b> React, Spring Boot, REST APIs<br>
+      • B2B platform with Admin, Seller & Buyer roles<br>
+      • Secure authentication & session handling<br>
+      • Optimized UI using React Hooks
+    </td>
+  </tr>
 
-REST APIs for CRUD operations using Spring Boot
+  <tr>
+    <td valign="top">
+      🏥 <b>Hospital Staff Management System</b><br><br>
+      <b>Tech:</b> Java, JSP, Servlets, MySQL, Maven<br>
+      • Automated attendance, shifts & salary<br>
+      • MVC architecture with JSP & Servlets<br>
+      • Unit testing using JUnit, Lombok integration
+    </td>
 
-Responsive dashboard with React + Tailwind
-
-Database integration using Spring Data JPA
-
-🛒 Purchase & Selling Management System
-
-React · Spring Boot · REST APIs
-
-B2B platform with Admin, Seller & Buyer roles
-
-Secure authentication & session management
-
-Optimized UI using React Hooks
-
-🏥 Hospital Staff Management System
-
-Java · JSP · Servlets · MySQL · Maven
-
-Automated staff attendance, shifts & salary calculation
-
-MVC architecture using Servlets & JSP
-
-Unit testing with JUnit, reduced boilerplate using Lombok
-
-🔨 Online Auction System
-
-Java · JSP · Servlets · MySQL
-
-Real-time bidding system with user authentication
-
-Efficient database design for auctions & bid history
-
-Concurrent request handling using Servlets
+    <td valign="top">
+      🔨 <b>Online Auction System</b><br><br>
+      <b>Tech:</b> Java, JSP, Servlets, MySQL<br>
+      • Real-time bidding platform<br>
+      • Optimized database design<br>
+      • Concurrent request handling
+    </td>
+  </tr>
+</table>
+s
 
 ---
 ## 📊 GitHub Stats
