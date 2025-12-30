@@ -86,12 +86,48 @@
 
 ---
 
-## 🚀 Projects
-- 🏥 **Hospital Management System** _Java, JSP, Servlet_
+🚀 Projects
+💰 Expense Tracker System
 
-- ⚛️ **React Practice Projects**
+React · Spring Boot · MySQL · Tailwind CSS · RBAC
 
-- 📦 **MongoDB CRUD Application**
+Secure full-stack finance app with role-based access control
+
+REST APIs for CRUD operations using Spring Boot
+
+Responsive dashboard with React + Tailwind
+
+Database integration using Spring Data JPA
+
+🛒 Purchase & Selling Management System
+
+React · Spring Boot · REST APIs
+
+B2B platform with Admin, Seller & Buyer roles
+
+Secure authentication & session management
+
+Optimized UI using React Hooks
+
+🏥 Hospital Staff Management System
+
+Java · JSP · Servlets · MySQL · Maven
+
+Automated staff attendance, shifts & salary calculation
+
+MVC architecture using Servlets & JSP
+
+Unit testing with JUnit, reduced boilerplate using Lombok
+
+🔨 Online Auction System
+
+Java · JSP · Servlets · MySQL
+
+Real-time bidding system with user authentication
+
+Efficient database design for auctions & bid history
+
+Concurrent request handling using Servlets
 
 ---
 ## 📊 GitHub Stats
