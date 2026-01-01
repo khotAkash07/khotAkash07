@@ -19,7 +19,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<table align="center" border="0" cellpadding="6" cellspacing="0">
+<table align="center" border="0" cellpadding="6" cellspacing="1">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
