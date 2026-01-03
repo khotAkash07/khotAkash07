@@ -151,7 +151,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/green-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/golden-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
