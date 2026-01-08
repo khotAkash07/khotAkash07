@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/main/banner-programming.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/main/GitBackGround.png" width="100%" />
 </p>
 
 
