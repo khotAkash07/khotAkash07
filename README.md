@@ -88,7 +88,7 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-<table align="center" border="0" cellpadding="12" cellspacing="0">
+<table align="center" border="0" cellpadding="12" cellspacing="2">
   <tr>
     <td valign="top">
       💰 <b>Expense Tracker System</b><br><br>
