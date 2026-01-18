@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Java | Spring Boot Developer</h3>
 
 <p align="center">
-  <i>Building clean backend systems & modern UIs</i>
+  <i>Like to Building clean backend systems</i>
 </p>
 
 ---
