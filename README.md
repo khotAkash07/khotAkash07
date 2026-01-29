@@ -149,10 +149,24 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khotAkash07&theme=react-dark&hide_border=true" 
+    width="100%"
+  />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/golden-snake.svg" alt="Snake Animation" />
+  <img 
+    src="https://raw.githubusercontent.com/khotAkash07/khotAkash07/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake Animation" 
+  />
 </p>
+
 
 ---
 
